@@ -1,6 +1,6 @@
 # BlindStick
 Arduino nano based blind stick with ultrasonic sensor 
-/*
+
  *********************************************************************
  * Author : Ashish Kumar Verma 
  * Name Of Project : BLIND STICK WITH ULTRASONIC MODULE 
@@ -26,4 +26,4 @@ Arduino nano based blind stick with ultrasonic sensor
    Before testing with buzzer check whether 
    Ultrasonic is calculating full distance upto 150cm or not 
  ********************************************************************* 
- */
+ 
